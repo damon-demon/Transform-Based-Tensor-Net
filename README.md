@@ -2,7 +2,7 @@
 A novel multi-phase deep neural network Transform-Based Tensor-Net that exploits the low-rank structure of video data in a learned transform domain, which unfolds an Iterative Shrinkage-Thresholding Algorithm (ISTA) for tensor signal recovery. 
 
 ## Tensor ISTA Algorithm
-<img src='./img/algoithm.png' width=800>
+<img src='./img/algorithm.png' width=800>
 
 
 ## Network Architecture
