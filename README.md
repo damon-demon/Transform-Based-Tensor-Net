@@ -32,7 +32,7 @@ The videos in 101 action categories are grouped into 25 groups, where each group
 
 The action categories can be divided into five types: 
 
-1)Human-Object Interaction 
+1) Human-Object Interaction 
 
 2) Body-Motion Only 
 
