@@ -42,3 +42,14 @@ The action categories can be divided into five types:
 
 5) Sports. 
 
+## Citation
+```
+@inproceedings{zhang2020tensornet,
+ author = {Yimeng Zhang, Xiao-Yang Liu, Bo Wu, and Anwar Walid},
+ title = {Video synthesis via transform-based tensor neural network},
+ booktitle = {Proceedings of the 28th ACM international conference on Multimedia.},
+ month = {October},
+ year = {2020} 
+}
+```
+
