@@ -32,18 +32,25 @@ The videos in 101 action categories are grouped into 25 groups, where each group
 
 The action categories can be divided into five types: 
 
-1) Human-Object Interaction 
+1) Human-Object Interaction; 
 
-2) Body-Motion Only 
+2) Body-Motion Only; 
 
-3) Human-Human Interaction 
+3) Human-Human Interaction; 
 
-4) Playing Musical Instruments 
+4) Playing Musical Instruments; 
 
 5) Sports. 
 
 ## Data Preparation
-Use DataGenerator.m to transform the dataset into a mat file that matches the data requirements of the neural network inputs.
+Execute DataGenerator.m to transform the dataset into a mat file that matches the data requirements of the neural network inputs.
+In addition, the input requirements can be modified in DefineParam.py. 
+
+## Neural Network Training
+Edit TrainModel.py to modify the Tensor-Net structure, and execute Train.py to train the network.
+
+## Testing
+Edit ReconstructionImage.py to adjusting the output of test results, and execute Reconstruction.py for network testing.
 
 ## Citation
 ```
