@@ -42,6 +42,9 @@ The action categories can be divided into five types:
 
 5) Sports. 
 
+## Data Preparation
+Use DataGenerator.m to transform the dataset into a mat file that matches the data requirements of the neural network inputs.
+
 ## Citation
 ```
 @inproceedings{zhang2020tensornet,
